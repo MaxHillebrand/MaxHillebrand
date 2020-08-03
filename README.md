@@ -6,10 +6,5 @@ As these weapons of cyberspace are fundamentally non-scarce, I share my work fre
 My focus is on creating a second realm with a sound monetary economy where sovereign individuals can persue their entrepreneurial action.
 
 ### Some of the projects I use and support
-- [Bitcoin](https://github.com/bitcoin/bitcoin)
-- [Wasabi Wallet](https://github.com/zkSNACKs/WalletWasabi)
-- [JoinMarket](https://github.com/JoinMarket-Org/JoinMarket-clientserver)
-- [BTC Pay Server](https://github.com/BTCPayServer/BTCPay/Server)
-- [BISQ](https://github.com/bisq-network/bisq)
-- [ColdCard](https://github.com/ColdCard)
-- [LND](https://github.com/lightningnetwork/lnd)
+
+[Bitcoin](https://github.com/bitcoin/bitcoin) |~| [Wasabi Wallet](https://github.com/zkSNACKs/WalletWasabi) |~| [JoinMarket](https://github.com/JoinMarket-Org/JoinMarket-clientserver) |~| [BTC Pay Server](https://github.com/BTCPayServer/BTCPay/Server) |~| [BISQ](https://github.com/bisq-network/bisq) |~| [ColdCard](https://github.com/ColdCard) |~| [LND](https://github.com/lightningnetwork/lnd)
