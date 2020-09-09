@@ -4,6 +4,8 @@ I'm contributing to several open source projects, building the tools I want to u
 As these weapons of cyberspace are fundamentally non-scarce, I share my work free for anyone to use.
 My focus is on creating a second realm with a sound monetary economy in which sovereign individuals can pursue their entrepreneurial action.
 
+[Contact me](htts://github.com/maxhillebrand/contact) on [towardsliberty.com](https://towardsliberty.com).
+
 ### Some of the projects I use and support
 
 [Bitcoin](https://github.com/bitcoin/bitcoin) || [Wasabi Wallet](https://github.com/zkSNACKs/WalletWasabi) || [JoinMarket](https://github.com/JoinMarket-Org/JoinMarket-clientserver) || [BTC Pay Server](https://github.com/BTCPayServer/BTCPay/Server) || [BISQ](https://github.com/bisq-network/bisq) || [ColdCard](https://github.com/ColdCard) || [LND](https://github.com/lightningnetwork/lnd)
