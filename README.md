@@ -8,4 +8,4 @@ My focus is on creating a second realm with a sound monetary economy in which so
 
 ### Some of the projects I use and support
 
-[Bitcoin](https://github.com/bitcoin/bitcoin) || [Wasabi Wallet](https://github.com/zkSNACKs/WalletWasabi) || [JoinMarket](https://github.com/JoinMarket-Org/JoinMarket-clientserver) || [BTC Pay Server](https://github.com/BTCPayServer/BTCPay/Server) || [BISQ](https://github.com/bisq-network/bisq) || [ColdCard](https://github.com/ColdCard) || [LND](https://github.com/lightningnetwork/lnd) || [Cryptoanarchy Debian Repository](https://github.com/Kixunil/cryptoanarchy-deb-repo-builder/)
+[Bitcoin](https://github.com/bitcoin/bitcoin) || [Wasabi Wallet](https://github.com/zkSNACKs/WalletWasabi) || [JoinMarket](https://github.com/JoinMarket-Org/JoinMarket-clientserver) || [BTC Pay Server](https://github.com/BTCPayServer/BTCPayServer) || [BISQ](https://github.com/bisq-network/bisq) || [ColdCard](https://github.com/ColdCard) || [LND](https://github.com/lightningnetwork/lnd) || [Cryptoanarchy Debian Repository](https://github.com/Kixunil/cryptoanarchy-deb-repo-builder/)
